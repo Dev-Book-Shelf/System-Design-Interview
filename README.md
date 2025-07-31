@@ -1,5 +1,6 @@
 # System-Design-Interview
-가상 면접 사례로 배우는 대규모 시스템 설계 기초 내용 정리  
+가상 면접 사례로 배우는 대규모 시스템 설계 기초  
+알렉스 쉬  
 
 ![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966263158.jpg)
 

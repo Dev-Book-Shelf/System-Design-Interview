@@ -26,21 +26,21 @@
 
 ## 목차
 
-| 장 번호 | 제목 |
-|--------|------------------------------|
-| 1장    | [사용자 수에 따른 규모 확장성](https://github.com/Dev-Book-Shelf/System-Design-Interview/blob/main/Ch.01(%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1)/Ch.01.md) |
-| 2장    | [개략적인 규모 추정](https://github.com/Dev-Book-Shelf/System-Design-Interview/blob/main/Ch.02(%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8%20%EA%B7%9C%EB%AA%A8%20%EC%B6%94%EC%A0%95)/Ch.02.md) |
-| 3장    | [시스템 설계 면접 공략법](https://github.com/Dev-Book-Shelf/System-Design-Interview/blob/main/Ch.03(%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EB%A9%B4%EC%A0%91%20%EA%B3%B5%EB%9E%B5%EB%B2%95)/Ch.03.md) |
-| 4장    | 처리율 제한 장치의 설계 |
-| 5장    | 안정 해시 설계 |
-| 6장    | 키-값 저장소 설계 |
-| 7장    | 분산 시스템을 위한 유일 ID 생성기 설계 |
-| 8장    | URL 단축기 설계 |
-| 9장    | 웹 크롤러 설계 |
-| 10장   | 알림 시스템 설계 |
-| 11장   | 뉴스 피드 시스템 설계 |
-| 12장   | 채팅 시스템 설계 |
-| 13장   | 검색어 자동완성 시스템 |
-| 14장   | 유튜브 설계 |
-| 15장   | 구글 드라이브 설계 |
-| 16장   | 배움은 계속된다 |
+| 주차 | 장 번호 | 제목                                    |
+|------|---------|----------------------------------------|
+| [1 주차](https://github.com/Dev-Book-Shelf/System-Design-Interview/pull/4) | 1장     | [사용자 수에 따른 규모 확장성](https://github.com/Dev-Book-Shelf/System-Design-Interview/tree/main/chapter01%20(%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1)) |
+|      | 2장     | [개략적인 규모 추정](https://github.com/Dev-Book-Shelf/System-Design-Interview/tree/main/chapter02%20(%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8%20%EA%B7%9C%EB%AA%A8%20%EC%B6%94%EC%A0%95)) |
+|      | 3장     | [시스템 설계 면접 공략법](https://github.com/Dev-Book-Shelf/System-Design-Interview/tree/main/chapter03%20(%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%20%EB%A9%B4%EC%A0%91%20%EA%B3%B5%EB%9E%B5%EB%B2%95)) |
+| -    | 4장     | 처리율 제한 장치의 설계                 |
+| -    | 5장     | 안정 해시 설계                         |
+| -    | 6장     | 키-값 저장소 설계                      |
+| -    | 7장     | 분산 시스템을 위한 유일 ID 생성기 설계   |
+| -    | 8장     | URL 단축기 설계                        |
+| -    | 9장     | 웹 크롤러 설계                         |
+| -    | 10장    | 알림 시스템 설계                       |
+| -    | 11장    | 뉴스 피드 시스템 설계                  |
+| -    | 12장    | 채팅 시스템 설계                       |
+| -    | 13장    | 검색어 자동완성 시스템                 |
+| -    | 14장    | 유튜브 설계                           |
+| -    | 15장    | 구글 드라이브 설계                     |
+| -    | 16장    | 배움은 계속된다                        |
